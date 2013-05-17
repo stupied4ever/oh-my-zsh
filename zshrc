@@ -34,7 +34,7 @@ plugins=(git heroku osx stupied4ever)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=/Users/rafael/.rvm/gems/ruby-2.0.0-preview2/bin:/Users/rafael/.rvm/gems/ruby-2.0.0-preview2@global/bin:/Users/rafael/.rvm/rubies/ruby-2.0.0-preview2/bin:/Users/rafael/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/rafael/.rvm/bin
+export PATH=/Users/rafael/.rvm/gems/ruby-2.0.0p0/bin:/Users/rafael/.rvm/gems/ruby-2.0.0p0@global/bin:/Users/rafael/.rvm/rubies/ruby-2.0.0p0/bin:/Users/rafael/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/rafael/.rvm/bin
 
 
 export PATH="/usr/local/bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:/bin:$PATH"
