@@ -2,6 +2,7 @@ locals.zsh
 log/.zsh_history
 projects.zsh
 custom/*
+!custom/libxml2.zsh
 !custom/plugins
 !custom/plugins/stupied4ever
 !custom/plugins/stupied4ever/stupied4ever.plugin.zsh
