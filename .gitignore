@@ -10,7 +10,8 @@ custom/*
 !custom/plugins/stupied4ever/stupied4ever.plugin.zsh
 !custom/example
 !custom/example.zsh
-
-# temp files directories
+!custom/corrections.zsh
+*.swp
+!custom/example.zshcache
 cache/
 log/
