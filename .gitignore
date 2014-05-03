@@ -5,10 +5,8 @@ custom/*
 !custom/libxml2.zsh
 !custom/ruby.zsh
 !custom/colors.zsh
-!custom/plugins
-!custom/plugins/stupied4ever
-!custom/plugins/stupied4ever/stupied4ever.plugin.zsh
-!custom/example
+custom
+!custom/plugins/example
 !custom/example.zsh
 !custom/corrections.zsh
 *.swp
