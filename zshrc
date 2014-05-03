@@ -6,3 +6,4 @@ ZSH_THEME="stupied4ever"
 plugins=(git stupied4ever)
 
 source $ZSH/oh-my-zsh.sh
+export EDITOR=vim
