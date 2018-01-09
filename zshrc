@@ -3,7 +3,7 @@ ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="stupied4ever"
 
-plugins=(git stupied4ever zsh_reload)
+plugins=(git stupied4ever zsh_reload awsls)
 
 source $ZSH/oh-my-zsh.sh
 export EDITOR=vim
