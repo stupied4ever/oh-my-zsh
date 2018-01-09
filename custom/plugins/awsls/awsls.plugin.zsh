@@ -21,7 +21,6 @@
 #
 
 awsls() {
-  set -x
   label="$1"
     aws ec2 describe-instances --filter "Name=tag:App,Values=$1" "Name=instance-state-name,Values=running" --output text | grep PRIVATEIPADDRESSES | awk '{print $4}'
     aws ec2 describe-instances --filter "Name=tag:Name,Values=$1" "Name=instance-state-name,Values=running" --output text | grep PRIVATEIPADDRESSES | awk '{print $4}'
